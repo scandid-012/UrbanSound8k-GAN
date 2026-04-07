@@ -1,4 +1,4 @@
-This project has three stage
+This project has three stages
 
 
 First: apply 10 fold cross validation on UrbanSound8K dataset for classification using the model described in this paper (base paper)
