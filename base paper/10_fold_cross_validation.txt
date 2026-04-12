@@ -1,3 +1,6 @@
+Hybrid CNN-BiLSTM-Attention model from the base paper
+
+
 Why 10 fold cross validation?
 
 Following author(s)'s suggestions:
