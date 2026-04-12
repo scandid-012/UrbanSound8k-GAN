@@ -1,4 +1,4 @@
-#Environmental_Sound_Classification
+Environmental_Sound_Classification
 
 This project has three stages
 
